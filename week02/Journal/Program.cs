@@ -9,7 +9,7 @@ class Program
 
         while (true)
         {
-            Console.WriteLine("Welcome to my Journal");
+            Console.WriteLine("Please select one of the folowing choices:");
             Console.WriteLine("1. Write");
             Console.WriteLine("2. Display");
             Console.WriteLine("3. Save");
