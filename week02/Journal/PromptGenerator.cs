@@ -5,9 +5,11 @@ public class PromptGenerator
 {
     private List<string> _prompts = new List<string>
     {
-        "What did you learn today?",
-        "What made you smile today?",
-        "Describe a challenge you faced today.",
+        "Who was the most interesting person I interacted with today?",
+        "What church program was held at the chapel today?",
+        "How did I see the hand of the Lord in my life today?",
+        "What was the most interesting activity I engaged in today?",
+        "How would you summarise everything that happened today in two lines?"
     };
 
     public string GetRandomPrompt()
